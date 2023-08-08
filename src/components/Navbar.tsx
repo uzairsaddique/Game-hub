@@ -13,7 +13,7 @@ const Navbar = () => {
       <>
       <HStack justifyContent='space-between' padding='10px'>
       <Image src={logo} boxSize='60px' />
-      <Text>NavBar</Text>
+      {/* <Text>NavBar</Text> */}
       {/* <SearchInput onSearch={onSearch} /> */}
       <ColorModeSwitch />
     </HStack>
