@@ -1,5 +1,5 @@
-import React from 'react'
-import { Card, CardBody, Heading, Image, Text, Badge } from '@chakra-ui/react'
+
+import {  Badge } from '@chakra-ui/react'
 interface Props  {
     score: number;
 }

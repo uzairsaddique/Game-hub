@@ -1,5 +1,5 @@
-import React, { ReactNode } from 'react'
-import { Card, CardBody, Skeleton, SkeletonText, Box } from '@chakra-ui/react'
+import { ReactNode } from 'react'
+import { Box } from '@chakra-ui/react'
 
 interface Props {
   children: ReactNode;
