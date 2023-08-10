@@ -1,6 +1,6 @@
-import React from 'react'
+
 import { Platform } from "../Hooks/useGames";
-import { Card, CardBody, Heading, Image, Text, Icon, HStack } from '@chakra-ui/react'
+import {Icon, HStack } from '@chakra-ui/react'
 import {FaWindows, FaPlaystation, FaXbox, FaApple, FaLinux, FaAndroid } from 'react-icons/fa'   
  import {MdPhoneIphone} from 'react-icons/md'  
 import {SiNintendo} from 'react-icons/si'  

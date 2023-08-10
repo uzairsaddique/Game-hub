@@ -1,9 +1,8 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import { Grid, GridItem, HStack, Flex , Box} from '@chakra-ui/react'
-import { Show, Hide } from '@chakra-ui/react'
+import { Grid, GridItem,Flex , Box} from '@chakra-ui/react'
+import { Show, } from '@chakra-ui/react'
 import Navbar from './components/Navbar'
 import GameGrid from './components/GameGrid'
 import GenreList from './components/GenreList'

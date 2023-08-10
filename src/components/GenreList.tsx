@@ -1,5 +1,5 @@
 import useGenres, {Genre} from '../Hooks/useGenres'
-import { Button, HStack, Image, List, ListItem, Spinner, Text,Heading } from '@chakra-ui/react'
+import { Button, HStack, Image, List, ListItem,Heading } from '@chakra-ui/react'
 import getCroppedImageUrl from '../services/image-url';
 
 interface Props {
